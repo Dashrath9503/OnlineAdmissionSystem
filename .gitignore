@@ -9,3 +9,5 @@ target/
 
 .idea/
 .vscode/
+
+src/main/webapp/WEB-INF/lib/
